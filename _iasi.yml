@@ -1,3 +1,4 @@
+type: quarto
 publication:
   strategy: regular
   content-dir: journey
